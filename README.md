@@ -64,15 +64,10 @@ All tasks and Power BI report screenshots are included in this repository.
 - Use **meaningful aliases** for tables.
 - Apply **proper indentation**.
 
-## 🎯 Future Improvements
-- Enhance the report with **more advanced DAX measures**.
-- Implement **automated data updates** in Power BI.
-- Optimize SQL queries for **better performance**.
-
 ## 🏆 Acknowledgments
-This project was part of a **Data Analyst / BI Developer Onboarding Sprint** to enhance SQL and Power BI skills.
+This project was part of a **Data Analyst / BI Developer Onboarding Sprint** to enhance SQL and Power BI skills. Special thanks to peers and mentors.
 
 ---
 
-🔗 **GitHub Repository Link**: [Your Repository Link Here]
+🔗 **GitHub Repository Link**: [https://github.com/kalpanasankaralingam/Internship--Onboarding-Task]
 
