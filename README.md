@@ -46,8 +46,7 @@ This project provided hands-on experience in:
 ## 📸 Project Outcomes
  SQL queries and Power BI visualizations are included in the repository.
 
-
 ---
 
-🔗 **GitHub Repository Link**: [https://github.com/kalpanasankaralingam/property-analysis]
+🔗 **GitHub Repository Link**: [https://github.com/kalpanasankaralingam/Internship--Onboarding-Task]
 
