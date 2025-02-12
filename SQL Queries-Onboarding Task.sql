@@ -1,4 +1,4 @@
--- Number of cities in each state
+-- A. Number of cities in each state
 
 SELECT
     state,
@@ -10,7 +10,7 @@ GROUP BY
 ORDER BY
     state;
 
--- Number of unique postcodes and suburbs in each city
+-- B. Number of unique postcodes and suburbs in each city
 
 SELECT
     city,
@@ -23,7 +23,7 @@ GROUP BY
 ORDER BY
     city;
 
--- Average Property Median Value by Suburb
+-- C1. Average Property Median Value by Suburb
 
 SELECT
     suburb,
@@ -35,7 +35,7 @@ WHERE
 GROUP BY
     suburb;
 
--- Average Property Median Value by Postcode
+-- C2. Average Property Median Value by Postcode
 
 SELECT
     postcode,
@@ -47,7 +47,8 @@ WHERE
 GROUP BY
     postcode;
 
--- Average Property Median Value by Suburb and Postcode together
+-- C3. Average Property Median Value by Suburb and Postcode
+
 SELECT
     suburb,
     postcode,
